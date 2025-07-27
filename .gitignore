@@ -1,0 +1,7 @@
+# Ignore all files containing API keys
+*.key
+*.pem
+*.crt
+*.env
+api_keys.txt
+secrets.json
