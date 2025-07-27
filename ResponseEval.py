@@ -161,8 +161,8 @@ temperature = 0.7
 top_k = 50
 top_p = 0.9
 num_predict = 200
-apikey_Gemini = "Ur API KEY"
-apikey_Groq = "Ur API KEY"
+apikey_Gemini #Input ur own api key
+apikey_Groq #Input ur own api key
 file_path = "Response_Prompt.xlsx"
 
 if 'llama_result' not in st.session_state:

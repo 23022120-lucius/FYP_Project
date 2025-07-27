@@ -127,8 +127,8 @@ temperature = 0.2
 top_k = 50
 top_p = 0.9
 num_predict = 300
-gemini_key = "Ur API KEY"
-groq_key = "Ur API KEY"
+gemini_key #Input ur own API key
+groq_key #Input ur own API key
 
 file_path = "consumer_profiling_llm.xlsx"
 
