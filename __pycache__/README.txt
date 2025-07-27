@@ -11,5 +11,5 @@ Consumer_bq.py is the streamlit code that is used to do Consumer Profiling Optim
 Consumer_profiling_llm.xlsx has information for Consumer Profiling Prompt Optimizing
 Consumer_bq_llm.xlsx has information for Consumer Profiling Accuracy test
 main_app.py is one website that allows you to use Consumer.py, ResponseEval.py, and Business.py all in one
-
 To run the code use the command in terminal : Streamlit run (filename)
+To get llama to run locally. Install Ollama on your OS first, then run the command ollama pull llama3
