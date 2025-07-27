@@ -128,8 +128,8 @@ temperature = 0.2
 top_k = 50
 top_p = 0.9
 num_predict = 300
-gemini_key = "AIzaSyBOAAHCeDwtkBMsnfCGEQKaiJRu8DLdSlA"
-groq_key = "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"
+gemini_key = "Ur API KEY"
+groq_key = "Ur API KEY"
 
 file_path = "business_profiling_llm.xlsx"
 
