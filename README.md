@@ -1,4 +1,4 @@
-README
+
 API Key has to be added in yourself for under Consumer.py, ResponseEval.py, Business.py (These are codes where we have to use our api keys to call for the Groq and Gemini)
 
 ResponseEval.py is the streamlit code that is used to do Response Evaluator Prompt Optimizing
